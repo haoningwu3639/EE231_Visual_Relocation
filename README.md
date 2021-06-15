@@ -1,5 +1,5 @@
 # EE231_Project
-Group assginment of SJTU EE231 Artificial Intelligence System Design and Practice, a visual relocation project based on HF-Net.
+Group assignment of SJTU EE231 Artificial Intelligence System Design and Practice, a visual relocation project based on HF-Net and SuperPoint.
 
 # Authors:
 | Name | ID | E-mail |
