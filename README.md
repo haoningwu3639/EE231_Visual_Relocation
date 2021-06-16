@@ -28,7 +28,7 @@ We have captured a dataset of landmark buildings inside Shanghai Jiao Tong Unive
 # Results 
  Some image results have been shown in the report, contact us for more details.
 
-# Referneces
+# References
  If you gonna learn more about Video Stabilization, we recommend these repositories for you: [hfnet](https://github.com/ethz-asl/hfnet), [SuperPoint](https://github.com/rpautrat/SuperPoint), [SuperPointPretrainedNetwork](https://github.com/magicleap/SuperPointPretrainedNetwork).
 
 # Miscs
